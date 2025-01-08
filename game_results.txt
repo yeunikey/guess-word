@@ -1,0 +1,3 @@
+Word: kotlin, Attempts: 9, Outcome: Success
+Word: java, Attempts: 6, Outcome: Success
+Word: kotlin, Attempts: 10, Outcome: Failure
